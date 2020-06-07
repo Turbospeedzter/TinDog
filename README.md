@@ -1,2 +1,1 @@
-# TinDog
-Website for training in Bootstrap design
+TinDog Starting Files
